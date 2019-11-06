@@ -1,0 +1,21 @@
+div {
+    border-style: solid;
+    border-width: 4px;
+    border-color: green;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+  }
+
+span.center {
+    display: table;
+    margin:0 auto;
+}
+
+body.center {
+    margin: auto;                        
+}  
+
+header {width: 100%; text-align: center; }
+
+body { width: 900px; }
